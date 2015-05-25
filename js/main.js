@@ -14,12 +14,10 @@ var app = {
     },
 
     initialize: function() {
-        initialize: function() {
             var self = this;
             this.store = new MemoryStore(function() {
                 self.renderHomeView();
             });
-        }
     },
 
     showAlert: function (message, title) {
