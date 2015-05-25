@@ -2,6 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e4ed862-5c05-42d9-bca7-f74d5b2c274e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Andy_Bernard.jpg" afterPath="$PROJECT_DIR$/img/Andy_Bernard.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Angela_Martin.jpg" afterPath="$PROJECT_DIR$/img/Angela_Martin.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Creed_Bratton.jpg" afterPath="$PROJECT_DIR$/img/Creed_Bratton.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Dwight_Schrute.jpg" afterPath="$PROJECT_DIR$/img/Dwight_Schrute.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EmployeeDirectory-debug.apk" afterPath="$PROJECT_DIR$/EmployeeDirectory-debug.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Jim_Halpert.jpg" afterPath="$PROJECT_DIR$/img/Jim_Halpert.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Kelly_Kapoor.jpg" afterPath="$PROJECT_DIR$/img/Kelly_Kapoor.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Kevin_Malone.jpg" afterPath="$PROJECT_DIR$/img/Kevin_Malone.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Meredith_Palmer.jpg" afterPath="$PROJECT_DIR$/img/Meredith_Palmer.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Michael_Scott.jpg" afterPath="$PROJECT_DIR$/img/Michael_Scott.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Oscar_Martinez.jpg" afterPath="$PROJECT_DIR$/img/Oscar_Martinez.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Pamela_Beesly.jpg" afterPath="$PROJECT_DIR$/img/Pamela_Beesly.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Phyllis_Lapin.jpg" afterPath="$PROJECT_DIR$/img/Phyllis_Lapin.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Ryan_Howard.jpg" afterPath="$PROJECT_DIR$/img/Ryan_Howard.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Stanley_Hudson.jpg" afterPath="$PROJECT_DIR$/img/Stanley_Hudson.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Toby_Flenderson.jpg" afterPath="$PROJECT_DIR$/img/Toby_Flenderson.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/unknown.jpg" afterPath="$PROJECT_DIR$/img/unknown.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/handlebars.js" afterPath="$PROJECT_DIR$/lib/handlebars.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/iscroll.js" afterPath="$PROJECT_DIR$/lib/iscroll.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/jquery-1.8.2.min.js" afterPath="$PROJECT_DIR$/lib/jquery-1.8.2.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/storage/ls-store.js" afterPath="$PROJECT_DIR$/js/storage/ls-store.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/storage/memory-store.js" afterPath="$PROJECT_DIR$/js/storage/memory-store.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phonegap-workshop-master.iml" afterPath="$PROJECT_DIR$/phonegap-workshop-master.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/source-sans-pro.js" afterPath="$PROJECT_DIR$/css/source-sans-pro.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/storage/websql-store.js" afterPath="$PROJECT_DIR$/js/storage/websql-store.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="phonegap-workshop-master.iws" />
@@ -25,11 +61,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.576923">
-              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.026397515">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -45,11 +81,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.53283584">
-              <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -89,8 +125,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/config.xml" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -180,20 +216,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="storage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="phonegap-workshop-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="phonegap-workshop-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -308,7 +330,7 @@
       <created>1432519113218</created>
       <option name="number" value="Default" />
       <updated>1432519113218</updated>
-      <workItem from="1432519117035" duration="4523000" />
+      <workItem from="1432519117035" duration="4603000" />
     </task>
     <task id="LOCAL-00001" summary="updates">
       <created>1432573142612</created>
@@ -320,7 +342,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4523000" />
+    <option name="totallyTimeSpent" value="4603000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="300" y="30" width="1073" height="806" extended-state="0" />
@@ -398,14 +420,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.576923">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/storage/ls-store.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -416,8 +430,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.53283584">
-          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.026397515">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
           <folding />
         </state>
       </provider>
