@@ -37,6 +37,8 @@ var app = {
             "<ul class='employee-list'></ul>" +
             "</div>"
         $('body').html(html);
+
+
         $('.search-key').on('keyup', $.proxy(this.findByName, this));
     }
 
