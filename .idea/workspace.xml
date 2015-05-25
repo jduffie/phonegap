@@ -2,42 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e4ed862-5c05-42d9-bca7-f74d5b2c274e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Andy_Bernard.jpg" afterPath="$PROJECT_DIR$/img/Andy_Bernard.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Angela_Martin.jpg" afterPath="$PROJECT_DIR$/img/Angela_Martin.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Creed_Bratton.jpg" afterPath="$PROJECT_DIR$/img/Creed_Bratton.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Dwight_Schrute.jpg" afterPath="$PROJECT_DIR$/img/Dwight_Schrute.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EmployeeDirectory-debug.apk" afterPath="$PROJECT_DIR$/EmployeeDirectory-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Jim_Halpert.jpg" afterPath="$PROJECT_DIR$/img/Jim_Halpert.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Kelly_Kapoor.jpg" afterPath="$PROJECT_DIR$/img/Kelly_Kapoor.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Kevin_Malone.jpg" afterPath="$PROJECT_DIR$/img/Kevin_Malone.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Meredith_Palmer.jpg" afterPath="$PROJECT_DIR$/img/Meredith_Palmer.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Michael_Scott.jpg" afterPath="$PROJECT_DIR$/img/Michael_Scott.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Oscar_Martinez.jpg" afterPath="$PROJECT_DIR$/img/Oscar_Martinez.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Pamela_Beesly.jpg" afterPath="$PROJECT_DIR$/img/Pamela_Beesly.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Phyllis_Lapin.jpg" afterPath="$PROJECT_DIR$/img/Phyllis_Lapin.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Ryan_Howard.jpg" afterPath="$PROJECT_DIR$/img/Ryan_Howard.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Stanley_Hudson.jpg" afterPath="$PROJECT_DIR$/img/Stanley_Hudson.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Toby_Flenderson.jpg" afterPath="$PROJECT_DIR$/img/Toby_Flenderson.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/unknown.jpg" afterPath="$PROJECT_DIR$/img/unknown.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/handlebars.js" afterPath="$PROJECT_DIR$/lib/handlebars.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/iscroll.js" afterPath="$PROJECT_DIR$/lib/iscroll.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/jquery-1.8.2.min.js" afterPath="$PROJECT_DIR$/lib/jquery-1.8.2.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/storage/ls-store.js" afterPath="$PROJECT_DIR$/js/storage/ls-store.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/storage/memory-store.js" afterPath="$PROJECT_DIR$/js/storage/memory-store.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phonegap-workshop-master.iml" afterPath="$PROJECT_DIR$/phonegap-workshop-master.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/source-sans-pro.js" afterPath="$PROJECT_DIR$/css/source-sans-pro.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/storage/websql-store.js" afterPath="$PROJECT_DIR$/js/storage/websql-store.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="phonegap-workshop-master.iws" />
@@ -112,6 +76,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -290,6 +257,10 @@
       <patterns />
       <method />
     </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <profiling log-folder="C:\cygwin64\home\jduffie\projects\phonegap-workshop-master\phonegap-workshop-master" />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -337,12 +308,19 @@
       <created>1432519113218</created>
       <option name="number" value="Default" />
       <updated>1432519113218</updated>
-      <workItem from="1432519117035" duration="4430000" />
+      <workItem from="1432519117035" duration="4523000" />
     </task>
+    <task id="LOCAL-00001" summary="updates">
+      <created>1432573142612</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1432573142612</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4430000" />
+    <option name="totallyTimeSpent" value="4523000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="300" y="30" width="1073" height="806" extended-state="0" />
@@ -350,6 +328,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -383,6 +362,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
